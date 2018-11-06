@@ -1,0 +1,3 @@
+K:/-ut-dl-direct/[FreeCoursesOnline.Us] Pluralsight - cpp-high-performance-computing/-code-along-/cmake-build-debug/CMakeFiles/_code_along_.dir
+K:/-ut-dl-direct/[FreeCoursesOnline.Us] Pluralsight - cpp-high-performance-computing/-code-along-/cmake-build-debug/CMakeFiles/edit_cache.dir
+K:/-ut-dl-direct/[FreeCoursesOnline.Us] Pluralsight - cpp-high-performance-computing/-code-along-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
